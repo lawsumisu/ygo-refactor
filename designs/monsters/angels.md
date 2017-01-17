@@ -8,7 +8,7 @@ Submarine Angel
 WATER
 Angel
 1500/2500
-At the end of the Battle Phase, you may change ~ to defense position.
+At the end of the Battle Phase, change ~ to defense position.
 
 Rescue Angel
 WIND
