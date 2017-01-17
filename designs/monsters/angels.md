@@ -22,3 +22,10 @@ Angel
 2000/2000
 Discard ~: Damage to your life points from the next batte becomes 0. (Quick effect).
 When you summon a WATER monster, you may return ~ from the graveyard to your hand.
+
+Elemental Sealing Angel
+LIGHT
+Angel
+2000/2500
+When ~ is summoned, choose EARTH, WATER, FIRE, or WIND.
+Your opponent can't declare attacks with monsters of the chosen attribute.
