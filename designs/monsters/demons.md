@@ -21,3 +21,9 @@ EARTH
 Demon
 2500/1000 (undercosted)
 When ~ attacks or is attacked, your opponent draws a card.
+
+Steel Demon
+EARTH
+Demon
+2000/2500 (undercosted)
+You can't summon monsters.
