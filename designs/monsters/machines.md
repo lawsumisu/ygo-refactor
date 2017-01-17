@@ -43,4 +43,13 @@ Machine
 When ~ attacks a Spellcaster monster, destroy that monster.
 
 Fire Truck
+FIRE
+Machine
+1500/2000
 When ~ battles a FIRE monster, that monster's ATK becomes 0 until the end of the Battle Phase.
+
+Dual-Mode Beast
+EARTH
+Machine/Beast
+1500/2500
+During your standby phase, you may switch this monster's ATK and DEF.
