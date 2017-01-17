@@ -29,3 +29,10 @@ Angel
 2000/2500
 When ~ is summoned, choose EARTH, WATER, FIRE, or WIND.
 Your opponent can't declare attacks with monsters of the chosen attribute.
+
+Avatar of Hope
+LIGHT
+Angel
+2000/2500
+If you have fewer than 2000 life points, you  may summon ~ {without tributing}.
+When ~ is attacked, you may change it to defense position.
