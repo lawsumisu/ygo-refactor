@@ -43,7 +43,7 @@ Machine
 When ~ attacks a Spellcaster monster, destroy that monster.
 
 Fire Truck
-FIRE
+WATER
 Machine
 1500/2000
 When ~ battles a FIRE monster, that monster's ATK becomes 0 until the end of the Battle Phase.
