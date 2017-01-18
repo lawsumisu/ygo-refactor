@@ -17,7 +17,7 @@ Demon
 Skip your draw phase.
 
 Chainsaw Demon
-EARTH
+DARK
 Demon
 2500/1000 (undercosted)
 When ~ attacks or is attacked, your opponent draws a card.
@@ -27,3 +27,9 @@ EARTH
 Demon
 2000/2500 (undercosted)
 You can't summon monsters.
+
+Pit Demon
+DARK
+Demon
+2500/2500
+During your standby phase, tribute another monster. If you can't, you take 2500 damage.
