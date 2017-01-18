@@ -15,3 +15,9 @@ WATER
 Dragon
 2500/2000
 During your Standby Phase, shuffle your hand into your deck, then draw that many cards.
+
+Gilded Dragon
+WATER
+Dragon
+2000/2000
+When ~ is summoned, exchange control of it and target monster your opponent controls.
