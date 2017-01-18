@@ -39,3 +39,9 @@ DARK
 Spellcaster
 1000/1500
 When ~ deals damage to your opponent, your opponent reveals his or her hand. You may play a Spell card from that player's hand.
+
+Magus of Restrict
+DARK
+Spellcaster
+1500/500
+Players can't tribute monsters.
