@@ -51,3 +51,10 @@ FIRE
 Spellcaster  
 1000/500  
 When you play a Spell card, you may special summon a FIRE Elemental 500/500 token.  
+
+
+####MP Jester Lord
+DARK  
+Spellcaster  
+0/0  
+~ gains 500 ATK for each card in the Spell and Trap zones.
