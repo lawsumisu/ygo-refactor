@@ -45,3 +45,9 @@ DARK
 Spellcaster  
 1500/500  
 Players can't tribute monsters.
+
+**Young Pyromancer**  
+FIRE  
+Spellcaster  
+1000/500  
+When you play a Spell card, you may special summon a FIRE Elemental 500/500 token.  
