@@ -10,7 +10,7 @@ Spellcaster
 1500/500  
 Discard a card: Your opponent reveals target face-down Spell or Trap card he or she controls. If it is a Trap card, destory it. Activate this ability only once per turn, during your Main Phase.
 
-**Controlling Spellshaper**
+**Controlling Spellshaper**  
 WATER  
 Spellcaster  
 1500/500  
