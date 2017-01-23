@@ -21,3 +21,15 @@ WATER
 Dragon  
 2000/2000  
 When ~ is summoned, exchange control of it and target monster your opponent controls.
+
+**Baby Dragon**  
+WIND  
+Dragon  
+500/500  
+During your Standby Phase, put a time counter on this card.  
+Banish this card with 3 or more time counters on it: Summon a "Thousand Dragon" from your Extra Deck, then destroy all monsters your opponent controls.
+
+**Thousand Dragon**  
+WIND  
+Dragon/Fusion  
+2500/2000
