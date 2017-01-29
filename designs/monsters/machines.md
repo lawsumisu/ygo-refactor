@@ -53,3 +53,11 @@ EARTH
 Machine/Beast  
 1500/2500  
 During your standby phase, you may switch this monster's ATK and DEF.
+
+**Slot Machine**  
+EARTH  
+Machine  
+0 / 2000  
+When you summon this card and during your Standby Phase, roll two dice.  
+  * If the results are different: This card's ATK becomes 200x the total.  
+  * If the results are the same: This card's ATK becomes 1000x the matching result.
