@@ -64,4 +64,4 @@ Spellcaster
 DARK  
 Spellcaster  
 1000/500  
-When you activate a Trap card, this card's original ATK becomes 2000 until the End Phase.
+Whenever you activate a Spell or Trap card during your opponent's turn, this card's original ATK becomes 2000 until the End Phase.
