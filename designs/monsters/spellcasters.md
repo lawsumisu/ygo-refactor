@@ -65,3 +65,10 @@ DARK
 Spellcaster  
 1000/500  
 Whenever you activate a Spell or Trap card during your opponent's turn, this card's original ATK becomes 2000 until the End Phase.
+
+
+####Typecaster  
+DARK  
+Spellcaster  
+1000/500  
+The effects of Spell cards you play or activate become "Special summon a token that's a copy of ~".
