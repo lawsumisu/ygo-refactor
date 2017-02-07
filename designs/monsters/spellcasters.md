@@ -58,3 +58,10 @@ DARK
 Spellcaster  
 0/0  
 ~ gains 500 ATK for each card in the Spell and Trap zones.
+
+
+####Trapcaster  
+DARK  
+Spellcaster  
+1000/500  
+When you activate a Trap card, this card's original ATK becomes 2000 until the End Phase.
