@@ -1,18 +1,25 @@
-**Annoying Rats**  
+####Annoying Rats  
 EARTH  
 Beast  
 1500/1500  
 If you control another EARTH monster, ~ can't be destroyed by battle.
 
-**Flying Beast**  
+####Flying Beast  
 WIND  
 Beast  
 1000/1000  
-If your opopnent controls no WIND monsters, ~ can attack your opponent's life points directly.
+If your opponent controls no WIND monsters, ~ can attack your opponent's life points directly.
 
-**Sphinx of the Jar Isle**  
+####Sphinx of the Jar Isle  
 WIND  
 Beast  
 2000/2000  
 ~ Can't be the target of Monster abilities, Spell cards, or Trap cards.
 You can look at the top card of your deck.
+
+
+####Seeing-Eye Frog  
+WATER  
+Beast  
+500/500  
+Your opponent plays with their hand revealed.
