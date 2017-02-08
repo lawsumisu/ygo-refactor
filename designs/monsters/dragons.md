@@ -33,3 +33,17 @@ Banish this card with 3 or more time counters on it: Summon a "Thousand Dragon" 
 WIND  
 Dragon/Fusion  
 2500/2000
+
+
+**Thunder Dragon**  
+LIGHT  
+Dragon  
+1500/1500  
+Discard ~: Search your deck for up to two cards named "Thunder Dragon", reveal them to your opponent, then add them to your hand.  
+_Fuses with Thunder Dragon_
+
+
+**Twin-Headed Thunder Dragon**
+LIGHT
+Dragon/Fusion
+3000/2000
