@@ -72,3 +72,11 @@ DARK
 Spellcaster  
 1000/500  
 The effects of Spell cards you play or activate become "Special summon a token that's a copy of ~".
+
+
+####Student of Magic  
+LIGHT  
+Spellcaster  
+500/500  
+When you Summon ~, search your deck for a Spell card and banish it.  
+When ~ is destroyed, add that Spell card to your hand.  
